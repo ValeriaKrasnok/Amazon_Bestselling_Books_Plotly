@@ -1,2 +1,4 @@
 # Amazon_Bestselling_Books_Plotly
-Dataset on Amazon's Top 50 bestselling books from 2009 to 2019.
+This project was created by using the knowledge acquired from the [Complete Data Science & Machine Learning Bootcamp in Python](https://www.udemy.com/course/data-science-bootcamp-in-python/) on Udemy. In this course, I learned how to get started in data science by using NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Dask, LightGBM, XGBoost, CatBoost, Streamlit, Power BI & much more.
+# Visualization with [Plotly](https://plotly.com/python-api-reference/index.html)
+For the first project, a dataset [bestsellers with categories.csv](https://www.kaggle.com/sootersaalu/amazon-top-50-bestselling-books-2009-2019) was used which includes information about data of Amazon's Top 50 bestselling books from 2009 to 2019. In this project, different methods of visualization such as pie chart, scatterplot, line, density heatmap etc. were used and animations were applied.
